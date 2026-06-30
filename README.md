@@ -1,5 +1,6 @@
 # SeaBattle
-#You can play simple seabattle game in telegram bot.
+#You can play simple seabattle game in telegram bot**.
+**Codes**:
 import logging
 import random
 from aiogram import Bot, Dispatcher, types, F
